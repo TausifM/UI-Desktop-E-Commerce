@@ -1,0 +1,30 @@
+<svg width="800" height="692" viewBox="0 0 800 692" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_196_24" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="800" height="523">
+<rect width="800" height="523" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_196_24)">
+<rect width="800" height="523" fill="#C4C4C4"/>
+</g>
+<mask id="mask1_196_24" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="159" y="555" width="139" height="137">
+<rect x="159.5" y="555.5" width="138" height="136" fill="#C4C4C4" stroke="black"/>
+</mask>
+<g mask="url(#mask1_196_24)">
+<rect x="160" y="556" width="137" height="137" fill="#CDCFD1" stroke="#9F9F9F" stroke-width="2"/>
+</g>
+<g opacity="0.25">
+<mask id="mask2_196_24" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="330" y="555" width="139" height="137">
+<rect x="330" y="555" width="139" height="137" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask2_196_24)">
+<rect x="330" y="555" width="139" height="139" fill="#CDCFD1"/>
+</g>
+</g>
+<g opacity="0.25">
+<mask id="mask3_196_24" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="501" y="555" width="139" height="137">
+<rect x="501" y="555" width="139" height="137" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask3_196_24)">
+<rect x="501" y="555" width="139" height="139" fill="#CDCFD1"/>
+</g>
+</g>
+</svg>
